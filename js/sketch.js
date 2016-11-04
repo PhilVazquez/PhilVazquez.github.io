@@ -47,6 +47,7 @@ function createQuad( x1, y1, x2, y2, x3, y3, x4, y4 ) {
   quad( x1, y1, x3, y3, x4, y4, x2, y2 );
 }
 
+/*
 function CreerXYavecUneBoucle(){
   var pos = [] // je créé un array vide
   pos.push( [ random( 100, 500 ), random( 100, 500 ) ] ); // je push un array dans pos
@@ -75,3 +76,5 @@ var testx = 100;
 testx.lerp(testx,200,0.1); // ça fait un mouvement "continu"
 
 }
+
+*/
